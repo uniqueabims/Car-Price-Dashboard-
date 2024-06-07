@@ -16,14 +16,22 @@ To ensure the data was clean, organized, and consistent, the following steps wer
 ### Summary of Findings:
 Here are some of the KPIs analyzed:
 📌Total Sales
+
 📌Average Selling Price
+
 📌Total Cars Sold
+
 📌Average Car Condition
 
 Here are the insights gained:
 📌Monthly sales trends
+
 📌Average selling price by state
+
 📌Total sales and number of cars sold by make
+
 📌Top 10 car sold by body type
+
 📌Top sellers by total sales
+
 📌Transmission type by number of car sold and average selling price
