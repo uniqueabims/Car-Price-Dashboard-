@@ -1,6 +1,7 @@
 ### Project Description:
 The objective of this project is to analyze car price data, identify key performance indicators (KPIs), and derive general insights and conclusions from the dataset.
 It provides a comprehensive overview of sales performance, helping to inform future strategies and decision-making.
+<img width="1337" alt="Car Price Dashboardd" src="https://github.com/uniqueabims/Car-Price-Dashboard-/assets/125979657/0ee4ba27-6a82-4f5f-b9db-54636198716b">
 
 ### Dataset:
 Initially, the dataset comprised 558,837 rows and 16 columns. After cleaning and preparing it for analysis, the dataset was refined to 558,811 rows and expanded to 18 columns.
