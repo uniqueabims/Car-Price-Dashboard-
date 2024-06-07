@@ -15,6 +15,7 @@ To ensure the data was clean, organized, and consistent, the following steps wer
 
 ### Summary of Findings:
 Here are some of the KPIs analyzed:
+
 📌Total Sales
 
 📌Average Selling Price
@@ -24,6 +25,7 @@ Here are some of the KPIs analyzed:
 📌Average Car Condition
 
 Here are the insights gained:
+
 📌Monthly sales trends
 
 📌Average selling price by state
